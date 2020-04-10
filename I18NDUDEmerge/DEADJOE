@@ -1,0 +1,20 @@
+
+*** These modified files were found in JOE when it aborted on Fri Mar  9 17:16:06 2018
+*** JOE was aborted by UNIX signal 1
+
+*** Файл '(БезИмени)'
+Dockerfile
+Dockerfile
+Dockerfile
+Dockerfile
+Dockerfile
+Dockerfile
+Dockerfile
+Dockerfile
+Dockerfile
+Dockerfile
+Dockerfile
+
+*** Файл '* Startup Log *'
+Обработка '/etc/joe/joerc'...Обработка '/etc/joe/ftyperc'...Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
