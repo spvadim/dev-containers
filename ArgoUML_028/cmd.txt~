@@ -1,0 +1,1 @@
+java -Dargo.defaultModel=/opt/ArgoUML/argouml_profile.xmi -jar /opt/ArgoUML/argouml.jar
